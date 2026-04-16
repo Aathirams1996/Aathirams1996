@@ -32,13 +32,13 @@ Currently at Sybex Support Services (Canada), I contribute to enterprise-grade d
 ▪ Improved prediction accuracy from **75% → 90%**  
 ▪ Published research in *PhysioNet Challenge (AIP Conference Proceedings)*  
 
-**𝐒𝐫𝐞𝐞 𝐂𝐡𝐢𝐭𝐫𝐚 𝐓𝐢𝐫𝐮𝐧𝐚𝐥 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐟𝐨𝐫 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐒𝐜𝐢𝐞𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲**
-*Project Intern*
-- Developed a test setup to simulate posture variation in patients fitted with Left Ventricular Assist Devices (LVAD)
-- Assisted in experimental design and data collection for biomedical analysis
-- Collaborated with research teams to evaluate system performance under varying conditions
-- Contributed to improving the reliability and accuracy of experimental outcomes
+### Sree Chitra Tirunal Institute for Medical Sciences and Technology  
+**Project Intern**   
 
+- Developed a test setup to simulate posture variation in patients fitted with Left Ventricular Assist Devices (LVAD)  
+- Assisted in experimental design and data collection for biomedical analysis  
+- Collaborated with research teams to evaluate system performance under varying conditions  
+- Improved the reliability and accuracy of experimental outcomes  
 ---
 
 ## ▌ Technical Expertise
