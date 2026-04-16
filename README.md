@@ -69,4 +69,4 @@ LinkedIn → https://www.linkedin.com/in/aathirams/
 ---
 
 ### ▌ Statement
-> Turning data into structured insight, and insight into measurable impact.
+> Delivering reliable data solutions that drive informed decisions and measurable outcomes.
