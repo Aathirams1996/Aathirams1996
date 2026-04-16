@@ -11,7 +11,6 @@ I specialize in transforming complex data into meaningful insights that enable s
 
 Currently at Sybex Support Services (Canada), I contribute to enterprise-grade data solutions by designing robust data models, developing ETL pipelines, and delivering impactful BI dashboards.
 
----
 
 ## ▌ Experience
 
@@ -41,7 +40,6 @@ Currently at Sybex Support Services (Canada), I contribute to enterprise-grade d
 ▪ Collaborated with research teams to evaluate system performance under varying conditions  
 ▪ Improved the reliability and accuracy of experimental outcomes  
 
----
 
 ## ▌ Technical Expertise
 
@@ -57,7 +55,6 @@ ETL Pipelines · Data Modeling · Data Governance · Azure
 **Machine Learning**  
 Scikit-learn · TensorFlow · PyTorch  
 
----
 
 ## ▌ Focus Areas
 ▪ Data storytelling and visualization  
@@ -65,17 +62,14 @@ Scikit-learn · TensorFlow · PyTorch
 ▪ AI applications in healthcare  
 ▪ Data governance and quality frameworks  
 
----
 
 ## ▌ Professional Approach
 I value structured problem-solving, clean data architecture, and collaboration with stakeholders to ensure that analytical solutions are not only technically sound but also aligned with business objectives.
 
----
 
 ## ▌ Contact
 LinkedIn → https://www.linkedin.com/in/aathirams/
 
----
 
 ### ▌ Statement
 > Delivering reliable data solutions that drive informed decisions and measurable outcomes.
