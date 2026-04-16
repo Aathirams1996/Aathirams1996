@@ -5,7 +5,6 @@
 </p>
 
 
-
 ## ▌ Profile
 I specialize in transforming complex data into meaningful insights that enable strategic decision-making and business growth. My work integrates business intelligence, data engineering, and machine learning, with a strong focus on scalability, governance, and data integrity.
 
