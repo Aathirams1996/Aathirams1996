@@ -1,4 +1,4 @@
-# Aathira M S
+# Aathira Mangala Sukumaran
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=2F80ED&width=600&lines=Data+Analyst;Business+Intelligence+%26+Analytics;Machine+Learning+Enthusiast;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
