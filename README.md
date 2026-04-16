@@ -67,14 +67,6 @@ Scikit-learn · TensorFlow · PyTorch
 
 ---
 
-## ▌ GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aathirams&show_icons=true&hide_border=true" height="150"/>
-</p>
-
----
-
 ## ▌ Professional Approach
 I value structured problem-solving, clean data architecture, and collaboration with stakeholders to ensure that analytical solutions are not only technically sound but also aligned with business objectives.
 
