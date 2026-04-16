@@ -1,6 +1,8 @@
 # Aathira M S
 
-Data Analyst | Business Intelligence & Analytics | Machine Learning  
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=2F80ED&width=600&lines=Data+Analyst;Business+Intelligence+%26+Analytics;Machine+Learning+Enthusiast;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -33,12 +35,12 @@ Currently at Sybex Support Services (Canada), I contribute to enterprise-grade d
 ▪ Published research in *PhysioNet Challenge (AIP Conference Proceedings)*  
 
 ### Sree Chitra Tirunal Institute for Medical Sciences and Technology  
-**Project Intern**   
-
+**Project Intern**  
 - Developed a test setup to simulate posture variation in patients fitted with Left Ventricular Assist Devices (LVAD)  
 - Assisted in experimental design and data collection for biomedical analysis  
 - Collaborated with research teams to evaluate system performance under varying conditions  
 - Improved the reliability and accuracy of experimental outcomes  
+
 ---
 
 ## ▌ Technical Expertise
@@ -62,6 +64,15 @@ Scikit-learn · TensorFlow · PyTorch
 ▪ Scalable analytics systems  
 ▪ AI applications in healthcare  
 ▪ Data governance and quality frameworks  
+
+---
+
+## ▌ GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aathirams&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathirams&layout=compact&hide_border=true" height="150"/>
+</p>
 
 ---
 
