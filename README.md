@@ -36,10 +36,10 @@ Currently at Sybex Support Services (Canada), I contribute to enterprise-grade d
 
 **Sree Chitra Tirunal Institute for Medical Sciences and Technology**  
 **Project Intern**  
-- Developed a test setup to simulate posture variation in patients fitted with Left Ventricular Assist Devices (LVAD)  
-- Assisted in experimental design and data collection for biomedical analysis  
-- Collaborated with research teams to evaluate system performance under varying conditions  
-- Improved the reliability and accuracy of experimental outcomes  
+▪ Developed a test setup to simulate posture variation in patients fitted with Left Ventricular Assist Devices (LVAD)  
+▪ Assisted in experimental design and data collection for biomedical analysis  
+▪ Collaborated with research teams to evaluate system performance under varying conditions  
+▪ Improved the reliability and accuracy of experimental outcomes  
 
 ---
 
