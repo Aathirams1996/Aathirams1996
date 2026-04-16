@@ -1,73 +1,72 @@
-# Hi, I'm Aathira 👋
+# Aathira M S
 
-💡 Data Analyst | Business Intelligence & Analytics | Machine Learning Enthusiast  
-
----
-
-## 👩‍💻 About Me
-I’m passionate about transforming complex data into meaningful insights that drive business growth and innovation. With hands-on experience in Power BI, Tableau, SQL, Python, and Azure, I enjoy bridging technical analytics with strategic decision-making.
-
-Currently, I work at Sybex Support Services (Canada), where I focus on:
-- Data modeling and metadata management (data dictionaries, lineage, catalogs)
-- Building SQL & Python-based ETL pipelines
-- Designing Power BI & Tableau dashboards for enterprise reporting
-- Ensuring data quality, governance, and security compliance
+Data Analyst | Business Intelligence & Analytics | Machine Learning  
 
 ---
 
-## 🚀 Experience Highlights
+## ▌ Profile
+I specialize in transforming complex data into meaningful insights that enable strategic decision-making and business growth. My work integrates business intelligence, data engineering, and machine learning, with a strong focus on scalability, governance, and data integrity.
 
-🔹 **Business Intelligence & Data Engineering**
-- Developed scalable ETL pipelines and optimized data workflows  
-- Delivered interactive dashboards enabling data-driven decisions  
-- Improved data quality and governance practices across systems  
-
-🔹 **IoT & Real-Time Analytics (CDAC India)**
-- Analyzed real-time sensor data using anomaly detection & PCA  
-- Improved operational efficiency by **30%**  
-- Strengthened metadata and data quality frameworks  
-
-🔹 **Healthcare AI & Machine Learning**
-- Built ML & DL models (SVM, XGBoost, ANN, CNN) for ECG analysis  
-- Improved prediction accuracy from **75% → 90%**  
-- Published research in *PhysioNet Challenge (AIP Conference Proceedings)*  
+Currently at Sybex Support Services (Canada), I contribute to enterprise-grade data solutions by designing robust data models, developing ETL pipelines, and delivering impactful BI dashboards.
 
 ---
 
-## 🛠️ Tech Stack
+## ▌ Experience
 
-**Languages & Tools**
-- Python, SQL, Excel, Alteryx  
-- Power BI, Tableau  
+**Sybex Support Services (Canada)**  
+*Data Analyst*  
+▪ Designed and maintained data models, metadata, and data catalogs  
+▪ Built scalable ETL pipelines using SQL and Python  
+▪ Delivered Power BI and Tableau dashboards for enterprise reporting  
+▪ Ensured data quality, governance, and compliance standards  
 
-**Data & Cloud**
-- ETL Pipelines, Data Modeling, Data Governance  
-- Azure Data Services  
+**CDAC India**  
+*Data Associate*  
+▪ Analyzed real-time IoT sensor data using anomaly detection and PCA  
+▪ Improved operational efficiency by **30%**  
+▪ Strengthened data quality frameworks and metadata practices  
 
-**Machine Learning**
-- Scikit-learn, TensorFlow, PyTorch  
-- Data Preprocessing, Feature Engineering, Model Optimization  
-
----
-
-## 📊 What I Love Working On
-- Data storytelling & visualization  
-- Building scalable data pipelines  
-- Applying AI in healthcare & real-world problems  
-- Turning raw data into actionable insights  
-
----
-
-## 🌱 Currently Exploring
-- Advanced analytics & ML in production  
-- Scalable AI systems  
-- Data-driven digital transformation  
+**Amrita Vishwa Vidyapeetham**  
+*Data Analyst (Co-op)*  
+▪ Developed ML/DL models (SVM, XGBoost, ANN, CNN) for ECG analysis  
+▪ Improved prediction accuracy from **75% → 90%**  
+▪ Published research in *PhysioNet Challenge (AIP Conference Proceedings)*  
 
 ---
 
-## 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/aathirams/
+## ▌ Technical Expertise
+
+**Languages & Tools**  
+Python · SQL · Excel · Alteryx  
+
+**Business Intelligence**  
+Power BI · Tableau  
+
+**Data Engineering & Cloud**  
+ETL Pipelines · Data Modeling · Data Governance · Azure  
+
+**Machine Learning**  
+Scikit-learn · TensorFlow · PyTorch  
 
 ---
 
-⭐ *“Turning data into decisions, and insights into impact.”*
+## ▌ Focus Areas
+▪ Data storytelling and visualization  
+▪ Scalable analytics systems  
+▪ AI applications in healthcare  
+▪ Data governance and quality frameworks  
+
+---
+
+## ▌ Professional Approach
+I value structured problem-solving, clean data architecture, and collaboration with stakeholders to ensure that analytical solutions are not only technically sound but also aligned with business objectives.
+
+---
+
+## ▌ Contact
+LinkedIn → https://www.linkedin.com/in/aathirams/
+
+---
+
+### ▌ Statement
+> Turning data into structured insight, and insight into measurable impact.
