@@ -71,7 +71,6 @@ Scikit-learn · TensorFlow · PyTorch
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aathirams&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathirams&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
