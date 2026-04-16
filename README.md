@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=2F80ED&width=600&lines=Data+Analyst;Business+Intelligence+%26+Analytics;Machine+Learning+Enthusiast;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
----
+
 
 ## ▌ Profile
 I specialize in transforming complex data into meaningful insights that enable strategic decision-making and business growth. My work integrates business intelligence, data engineering, and machine learning, with a strong focus on scalability, governance, and data integrity.
